@@ -53,7 +53,7 @@ To use the Microsoft Tunnel for MAM iOS, you must update your Line of Business (
 
 ## Tunnel for MAM iOS SDK Architecture
 
-The following diagram describes the flow from a managed app that has successfully been integrated with Tunnel for MAM SKD for iOS.
+The following diagram describes the flow from a managed app that has successfully been integrated with Tunnel for MAM SDK for iOS.
 
 :::image type="content" source="./media/microsoft-tunnel-mam-ios/tunnel-for-mam-ios-flow.png" alt-text="Drawing of the Microsoft Tunnel Gateway for MAM on iOS architecture.":::
 
